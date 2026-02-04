@@ -41,7 +41,7 @@ The packet capture shows a standard TCP three-way handshake:
 
 This confirms that the SSH service was reachable and actively listening on port 22.
 
-![wireshark7](screenshots/Wireshark_7(2).png)
+![wireshark7](screenshots/Wireshark_7_(2).png)
 
 
 ---
