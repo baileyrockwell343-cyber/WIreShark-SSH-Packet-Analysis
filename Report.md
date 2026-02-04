@@ -16,6 +16,11 @@ An SSH session was initiated from the Windows system to the Ubuntu system using 
 - **Destination** `192.168.50.100`
 - **Connection Type:** SSH
 
+
+
+After manually configuring IP addresses on both machines, Ubuntu mahine as well as windows pinged for connection verification 
+![wireshark3](screenshots/Wireshark_3.png)
+![wireshark4](screenshots/Wireshark_4.png)
 Upon successful authentication, the `whoami` command was executed on the Ubuntu system to verify user access.
 
 ---
