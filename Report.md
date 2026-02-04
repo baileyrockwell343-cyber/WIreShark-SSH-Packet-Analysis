@@ -1,12 +1,16 @@
+# Wireshark SSH packet capture report
 
+**Author:** Bailey Rockwell  
+**Date:** February 4, 2026
 ---
 
 ## 🔐 SSH Session Establishment
 
 An SSH session was initiated from the Windows system to the Ubuntu system using PuTTY with the following configuration:
 
-- **Host:** `192.168.50.100`
+- **Host:** `192.168.50.50`
 - **Port:** `22`
+- **Destination** `192.168.50.100`
 - **Connection Type:** SSH
 
 Upon successful authentication, the `whoami` command was executed on the Ubuntu system to verify user access.
