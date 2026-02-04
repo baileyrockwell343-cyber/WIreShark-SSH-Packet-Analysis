@@ -60,11 +60,13 @@ At this point, Wireshark can no longer display readable payload data, demonstrat
 
 ---
 
-## 🛡️ Security Observations
+## 🛡️ SSH Security Observations
 
 - SSH encrypts authentication credentials and session data.
 - Packet metadata (IP addresses, ports, timing) remains visible, but payload contents are protected.
 - Encrypted traffic prevents credential exposure even if packets are intercepted.
+
+![wireshark9](screenshots/Wireshark_9.png)
 
 ---
 
