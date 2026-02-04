@@ -91,5 +91,4 @@ Understanding these traffic patterns is essential for cybersecurity professional
 
 ---
 
-## 📂 Repository Structure
 
