@@ -1,4 +1,4 @@
-# Wireshark Packet Analyzer – SSH vs Telnet Lab
+# Wireshark Packet Analyzer – SSH 
 
 **Author:** Bailey Rockwell  
 **Project Type:** Network Traffic Analysis (Wireshark + PuTTY)  
